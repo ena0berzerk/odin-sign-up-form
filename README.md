@@ -1,6 +1,6 @@
 # Odin Sign Up Form
 
-Sign Up Project as part of Odin Project training
+Sign Up Project as part of Odin Project curriculum
 
 ## Preview
 
