@@ -12,6 +12,7 @@ Sign Up Project as part of Odin Project curriculum
 
 Working with:
 - SCSS
+- SCSS Nesting (i love it!)
 - CSS Variables
 - Mixins
 - Implement Password Validation with JavaScript
