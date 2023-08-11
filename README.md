@@ -12,5 +12,6 @@ Sign Up Project as part of Odin Project curriculum
 
 Working with:
 - SCSS
-- Variables
+- CSS Variables
+- Mixins
 - Implement Password Validation with JavaScript
