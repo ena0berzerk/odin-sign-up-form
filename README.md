@@ -8,17 +8,3 @@ Sign Up Project as part of Odin Project training
 
 ![sign up](https://github.com/ena0berzerk/odin-sign-up-form/assets/110235307/02198e75-0006-47c7-a333-68539b93b38b)
 
-## Installation
-
-Use the SSH:
-
-```bash
-git clone git@github.com:ena0berzerk/personal-blog.git
-```
-
-Use the HTTPS:
-
-```bash
-git clone https://github.com/ena0berzerk/personal-blog.git
-```
-
