@@ -11,6 +11,7 @@ Sign Up Project as part of Odin Project curriculum
 ## Features
 
 Working with:
+- Forms
 - SCSS
 - Mixins
 - CSS Variables
