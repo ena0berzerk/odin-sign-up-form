@@ -12,7 +12,7 @@ Sign Up Project as part of Odin Project curriculum
 
 Working with:
 - SCSS
-- SCSS Nesting (i fall in love)
+- SCSS Nesting (i fell in love)
 - CSS Variables
 - Mixins
 - Implement Password Validation with JavaScript
