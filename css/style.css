@@ -40,7 +40,7 @@ body {
       -ms-flex: 1 1 100%;
           flex: 1 1 100%;
   background-size: cover;
-  background-image: url(/img/signup-img.jpg);
+  background-image: url(./img/signup-img.jpg);
 }
 .left-container .logo-container {
   display: -webkit-box;
