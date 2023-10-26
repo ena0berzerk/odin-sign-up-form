@@ -2,6 +2,7 @@
 
 Sign Up Project as part of Odin Project curriculum
 
+![forms](https://github.com/ena0berzerk/odin-sign-up-form/assets/110235307/f989169c-25c2-424b-af55-bfa78e832053)
 
 ## Preview
 
