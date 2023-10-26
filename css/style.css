@@ -1,24 +1,24 @@
-@import url("https://fonts.googleapis.com/css2?family=Marck+Script&family=Open+Sans:wght@400;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&family=Open+Sans:wght@400;700&display=swap');
 * {
   -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
 
 html,
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .dontMatch {
   --color-text: tomato;
-  --password-message: "* Passwords do not match";
+  --password-message: '* Passwords do not match';
 }
 
 .match {
   --color-text: green;
-  --password-message: "Passwords matches";
+  --password-message: 'Passwords matches';
 }
 
 .container {
@@ -34,24 +34,24 @@ body {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-flex: 1;
-      -ms-flex: 1 1 100%;
-          flex: 1 1 100%;
+  -ms-flex: 1 1 100%;
+  flex: 1 1 100%;
   background-size: cover;
-  background-image: url(/img/signup-img.jpg);
+  background: url(/img/signup-img.jpg);
 }
 .left-container .logo-container {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   font-size: 36px;
   padding: 18px;
   margin-top: 26vh;
@@ -60,13 +60,13 @@ body {
   font-size: 24px;
   cursor: default;
   -webkit-user-select: none;
-     -moz-user-select: none;
-      -ms-user-select: none;
-          user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 .left-container .logo-container .greetings {
   font-size: 34px;
-  font-family: "Marck Script", cursive;
+  font-family: 'Marck Script', cursive;
 }
 .left-container .logo {
   width: 100px;
@@ -89,8 +89,8 @@ body {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   background-color: #f9fafb;
 }
 .right-container .wrapper {
@@ -106,7 +106,7 @@ body {
   background-color: #fff;
   padding: 24px 0 44px 0;
   -webkit-box-shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px, rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
-          box-shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px, rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
+  box-shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px, rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
 }
 .right-container .form-container .form-wrapper {
   margin-left: 5%;
@@ -135,7 +135,7 @@ body {
   outline: none;
   border: 1px solid #8fa1ea;
   -webkit-box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-          box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 .right-container .form-container .form-wrapper .sign-up .dontMatch::after {
   display: block;
@@ -144,7 +144,7 @@ body {
   text-transform: initial;
   font-size: 10px;
   -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   color: var(--color-text);
   content: var(--password-message);
 }
@@ -158,7 +158,7 @@ body {
   text-transform: initial;
   font-size: 10px;
   -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   color: var(--color-text);
   content: var(--password-message);
 }
@@ -211,7 +211,7 @@ body {
   border: 1px solid #017d7f;
   border-radius: 6px;
   -webkit-box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
-          box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
   font-size: 16px;
   cursor: pointer;
   color: #fff;
