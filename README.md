@@ -6,7 +6,7 @@ Sign Up Project as part of Odin Project curriculum
 
 ## Preview
 
-[Sign Up](https://ena0berzerk.github.io/personal-blog)
+[Sign Up](https://ena0berzerk.github.io/odin-sign-up-form/)
 
 ## Features
 
